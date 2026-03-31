@@ -10,6 +10,11 @@
 </p>
 
 ---
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Initializing...;Access+Granted;Welcome+Hacker"/>
+</p>
+
+---
 
 ## 🧠 About This Repo
 
@@ -72,4 +77,8 @@ I am not responsible for any misuse of the information.
 
 ---
 
-<p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/> </p> <p align="center"> 💀 Stay Anonymous. Stay Curious. 💀 </p> ```
+<p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/> </p> <p align="center"> 💀 Stay Anonymous. Stay Curious. 💀 </p> 
+
+
+
+
