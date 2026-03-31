@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Hacking Learning Lab ⚡</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="50%"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="150"/>
 </p>
 
 <p align="center">
