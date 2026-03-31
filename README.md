@@ -1,4 +1,15 @@
-<h1 align="center">⚡ Hacking Learning Lab ⚡</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kali-Prem/Hacking-Learning/main/banner.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&lines=Initializing+System...;Access+Granted;Welcome+Prem+Kumar+(Kali);Ethical+Hacking+Lab"/>
+</p>
+
+
+
+
+<!-- <h1 align="center">⚡ Hacking Learning Lab ⚡</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="150"/>
@@ -81,4 +92,4 @@ I am not responsible for any misuse of the information.
 
 
 
-
+ -->
