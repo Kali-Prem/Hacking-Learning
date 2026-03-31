@@ -1,51 +1,75 @@
-# 💀 Hacking Learning Hub
+<h1 align="center">⚡ Hacking Learning Lab ⚡</h1>
 
-> ⚡ Learn. Hack. Secure. Repeat.
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
+</p>
 
----
-
-## 🧠 About
-
-🔐 Ethical Hacking & Cybersecurity learning repo
-💻 Tools • Scripts • Notes • Practice
-🚀 From Beginner → Advanced
-
----
-
-## ⚡ Features
-
-🛠️ Practical Tools
-📚 Easy Notes
-🐧 Kali Linux Guide
-🔥 Hands-on Learning
+<p align="center">
+  <b>💻 Learn. Break. Build. Repeat.</b><br>
+  Ethical Hacking | Cybersecurity | Tools | Scripts
+</p>
 
 ---
 
-## 🚀 Start
+## 🧠 About This Repo
 
-```bash
-git clone https://github.com/Kali-Prem/Hacking-Learning.git
-cd Hacking-Learning
-```
+> This repository is my personal **Cybersecurity Learning Lab** where I document tools, scripts, and concepts related to ethical hacking.
 
----
-
-## ⚠️ Warning
-
-🚫 For educational use only
-✅ Use ethically
-⚖️ You are responsible
+⚠️ This is strictly for **educational purposes only**.
 
 ---
 
-## ⭐ Support
+## 🕶️ Features
 
-⭐ Star | 🍴 Fork | 📢 Share
+- 🔍 Reconnaissance Techniques  
+- 🛠️ Penetration Testing Tools  
+- 🐍 Python Automation Scripts  
+- 🌐 Web Hacking Concepts  
+- 📂 Organized Learning Structure  
+- ⚡ Real-world Practice Notes  
 
 ---
 
-## 💀 Quote
+## 📁 Repository Structure
+📦 Hacking-Learning  
+┣ 📂 Recon  
+┣ 📂 Web-Hacking  
+┣ 📂 Tools  
+┣ 📂 Scripts  
+┣ 📂 Notes  
+┗ 📜 README.md  
 
-> Think like a hacker ⚡ Secure like a pro 🔐
+---
 
 
+
+---
+
+## ⚙️ Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux">
+<img src="https://img.shields.io/badge/Kali-Linux-blue?style=for-the-badge&logo=kalilinux">
+<img src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash">
+</p>
+
+---
+
+## 🧑‍💻 Author
+
+Prem Kumar (Kali)  
+📧 linux.premkumar@gmail.com
+
+🐙 https://github.com/Kali-Prem
+
+---
+
+## ⚠️ Disclaimer  
+This repository is created for educational purposes only.
+I am not responsible for any misuse of the information.
+
+
+---
+
+<p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/> </p> <p align="center"> 💀 Stay Anonymous. Stay Curious. 💀 </p> ```
