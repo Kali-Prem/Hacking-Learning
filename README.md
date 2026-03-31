@@ -1,10 +1,13 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kali-Prem/Hacking-Learning/main/banner.png" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&lines=Initializing+System...;Access+Granted;Welcome+Hacker;Ethical+Hacking+Lab"/>
 </p>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&lines=Initializing+System...;Access+Granted;Welcome+Prem+Kumar+(Kali);Ethical+Hacking+Lab"/>
+  <img src="https://raw.githubusercontent.com/Kali-Prem/Hacking-Learning/main/banner.png" width="100%"> 
 </p>
+
+
 
 
 
